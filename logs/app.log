@@ -1,0 +1,118 @@
+2025-06-27 15:59:33,291 WARNING:  * Debugger is active!
+2025-06-27 15:59:33,299 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 15:59:51,842 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 15:59:51,844 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 15:59:51,847 INFO:  * Restarting with stat
+2025-06-27 15:59:53,001 WARNING:  * Debugger is active!
+2025-06-27 15:59:53,022 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 16:00:59,548 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\models.py', reloading
+2025-06-27 16:00:59,718 INFO:  * Restarting with stat
+2025-06-27 16:01:01,202 WARNING:  * Debugger is active!
+2025-06-27 16:01:01,215 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:13:22,140 INFO: 127.0.0.1 - - [27/Jun/2025 17:13:22] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-27 17:13:41,330 INFO: 127.0.0.1 - - [27/Jun/2025 17:13:41] "[33mGET /books_manager HTTP/1.1[0m" 404 -
+2025-06-27 17:14:03,665 INFO: 127.0.0.1 - - [27/Jun/2025 17:14:03] "[33mGET /books_manager HTTP/1.1[0m" 404 -
+2025-06-27 17:35:20,773 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\books_api.py', reloading
+2025-06-27 17:35:21,379 INFO:  * Restarting with stat
+2025-06-27 17:35:23,565 WARNING:  * Debugger is active!
+2025-06-27 17:35:23,579 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:36:40,862 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\books_api.py', reloading
+2025-06-27 17:36:41,200 INFO:  * Restarting with stat
+2025-06-27 17:36:43,490 WARNING:  * Debugger is active!
+2025-06-27 17:36:43,494 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:36:44,696 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\authors_api.py', reloading
+2025-06-27 17:36:45,079 INFO:  * Restarting with stat
+2025-06-27 17:36:47,065 WARNING:  * Debugger is active!
+2025-06-27 17:36:47,074 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:41:20,872 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\__init__.py', reloading
+2025-06-27 17:41:21,106 INFO:  * Restarting with stat
+2025-06-27 17:41:23,458 WARNING:  * Debugger is active!
+2025-06-27 17:41:23,471 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:43:54,309 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\__init__.py', reloading
+2025-06-27 17:43:54,710 INFO:  * Restarting with stat
+2025-06-27 17:43:57,168 WARNING:  * Debugger is active!
+2025-06-27 17:43:57,186 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:43:58,642 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\authors_api.py', reloading
+2025-06-27 17:43:58,882 INFO:  * Restarting with stat
+2025-06-27 17:44:00,976 WARNING:  * Debugger is active!
+2025-06-27 17:44:00,986 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:44:36,637 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 17:44:36,638 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 17:44:36,641 INFO:  * Restarting with stat
+2025-06-27 17:44:38,143 WARNING:  * Debugger is active!
+2025-06-27 17:44:38,151 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:44:42,507 INFO: 127.0.0.1 - - [27/Jun/2025 17:44:42] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-27 17:45:11,292 INFO: 127.0.0.1 - - [27/Jun/2025 17:45:11] "[31m[1mPUT /authors HTTP/1.1[0m" 405 -
+2025-06-27 17:45:33,137 INFO: 127.0.0.1 - - [27/Jun/2025 17:45:33] "[35m[1mGET /authors HTTP/1.1[0m" 500 -
+2025-06-27 17:46:01,643 INFO: 127.0.0.1 - - [27/Jun/2025 17:46:01] "[35m[1mPOST /authors HTTP/1.1[0m" 500 -
+2025-06-27 17:48:34,455 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\models.py', reloading
+2025-06-27 17:48:34,741 INFO:  * Restarting with stat
+2025-06-27 17:48:37,119 WARNING:  * Debugger is active!
+2025-06-27 17:48:37,137 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:48:39,473 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\Routes\\authors_api.py', reloading
+2025-06-27 17:48:39,707 INFO:  * Restarting with stat
+2025-06-27 17:48:42,187 WARNING:  * Debugger is active!
+2025-06-27 17:48:42,202 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:49:31,335 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 17:49:31,336 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 17:49:31,340 INFO:  * Restarting with stat
+2025-06-27 17:49:32,666 WARNING:  * Debugger is active!
+2025-06-27 17:49:32,668 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:49:39,441 INFO: 127.0.0.1 - - [27/Jun/2025 17:49:39] "[35m[1mPOST /authors HTTP/1.1[0m" 500 -
+2025-06-27 17:52:53,101 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\models.py', reloading
+2025-06-27 17:52:53,522 INFO:  * Restarting with stat
+2025-06-27 17:52:55,873 WARNING:  * Debugger is active!
+2025-06-27 17:52:55,894 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:52:57,339 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\models.py', reloading
+2025-06-27 17:52:57,716 INFO:  * Restarting with stat
+2025-06-27 17:53:00,331 WARNING:  * Debugger is active!
+2025-06-27 17:53:00,350 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:53:51,481 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 17:53:51,482 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 17:53:51,486 INFO:  * Restarting with stat
+2025-06-27 17:53:53,281 WARNING:  * Debugger is active!
+2025-06-27 17:53:53,292 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 17:54:16,335 INFO: 127.0.0.1 - - [27/Jun/2025 17:54:16] "[35m[1mPOST /authors HTTP/1.1[0m" 201 -
+2025-06-27 18:17:36,831 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 18:17:36,833 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 18:17:36,836 INFO:  * Restarting with stat
+2025-06-27 18:17:38,873 WARNING:  * Debugger is active!
+2025-06-27 18:17:38,894 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 18:17:40,796 INFO: 127.0.0.1 - - [27/Jun/2025 18:17:40] "[35m[1mPOST /authors HTTP/1.1[0m" 201 -
+2025-06-27 18:17:56,945 INFO: 127.0.0.1 - - [27/Jun/2025 18:17:56] "[35m[1mPUT /authors/1 HTTP/1.1[0m" 500 -
+2025-06-27 18:18:08,082 INFO: 127.0.0.1 - - [27/Jun/2025 18:18:08] "[31m[1mPOST /authors/1 HTTP/1.1[0m" 405 -
+2025-06-27 18:18:46,198 INFO: 127.0.0.1 - - [27/Jun/2025 18:18:46] "[31m[1mPOST /authors HTTP/1.1[0m" 415 -
+2025-06-27 18:18:58,079 INFO: 127.0.0.1 - - [27/Jun/2025 18:18:58] "[35m[1mPOST /authors HTTP/1.1[0m" 500 -
+2025-06-27 18:19:22,585 INFO: 127.0.0.1 - - [27/Jun/2025 18:19:22] "[35m[1mPOST /authors HTTP/1.1[0m" 201 -
+2025-06-27 18:19:29,137 INFO: 127.0.0.1 - - [27/Jun/2025 18:19:29] "GET /authors HTTP/1.1" 200 -
+2025-06-27 18:19:51,025 INFO: 127.0.0.1 - - [27/Jun/2025 18:19:51] "[35m[1mPOST /authors HTTP/1.1[0m" 500 -
+2025-06-27 18:19:57,643 INFO: 127.0.0.1 - - [27/Jun/2025 18:19:57] "[35m[1mPOST /authors HTTP/1.1[0m" 201 -
+2025-06-27 18:20:24,177 INFO: 127.0.0.1 - - [27/Jun/2025 18:20:24] "GET /authors HTTP/1.1" 200 -
+2025-06-27 18:20:57,228 INFO: 127.0.0.1 - - [27/Jun/2025 18:20:57] "[35m[1mPOST /books HTTP/1.1[0m" 201 -
+2025-06-27 18:21:21,369 INFO: 127.0.0.1 - - [27/Jun/2025 18:21:21] "GET /authors HTTP/1.1" 200 -
+2025-06-27 18:21:46,019 INFO: 127.0.0.1 - - [27/Jun/2025 18:21:46] "[35m[1mPOST /books HTTP/1.1[0m" 201 -
+2025-06-27 18:22:03,324 INFO: 127.0.0.1 - - [27/Jun/2025 18:22:03] "[35m[1mPOST /books HTTP/1.1[0m" 201 -
+2025-06-27 18:22:21,148 INFO: 127.0.0.1 - - [27/Jun/2025 18:22:21] "[35m[1mPOST /books HTTP/1.1[0m" 201 -
+2025-06-27 18:22:47,830 INFO: 127.0.0.1 - - [27/Jun/2025 18:22:47] "[33mPOST /api/books%0A HTTP/1.1[0m" 404 -
+2025-06-27 18:22:52,520 INFO: 127.0.0.1 - - [27/Jun/2025 18:22:52] "[33mGET /api/books%0A HTTP/1.1[0m" 404 -
+2025-06-27 18:22:59,722 INFO: 127.0.0.1 - - [27/Jun/2025 18:22:59] "[33mGET /books%0A HTTP/1.1[0m" 404 -
+2025-06-27 18:26:16,603 INFO:  * Detected change in 'D:\\Internship Tasks\\FLASK_APP\\app\\models.py', reloading
+2025-06-27 18:26:16,819 INFO:  * Restarting with stat
+2025-06-27 18:26:18,612 WARNING:  * Debugger is active!
+2025-06-27 18:26:18,618 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 18:26:26,322 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 18:26:26,327 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 18:26:26,331 INFO:  * Restarting with stat
+2025-06-27 18:26:27,825 WARNING:  * Debugger is active!
+2025-06-27 18:26:27,834 INFO:  * Debugger PIN: 246-937-099
+2025-06-27 18:26:33,295 INFO: 127.0.0.1 - - [27/Jun/2025 18:26:33] "[33mGET /books%0A HTTP/1.1[0m" 404 -
+2025-06-27 18:26:44,693 INFO: 127.0.0.1 - - [27/Jun/2025 18:26:44] "GET /authors HTTP/1.1" 200 -
+2025-06-27 18:26:54,749 INFO: 127.0.0.1 - - [27/Jun/2025 18:26:54] "GET /books HTTP/1.1" 200 -
+2025-06-27 18:27:40,462 INFO: 127.0.0.1 - - [27/Jun/2025 18:27:40] "[33mGET /books/authors/1 HTTP/1.1[0m" 404 -
+2025-06-27 18:30:20,695 INFO: 127.0.0.1 - - [27/Jun/2025 18:30:20] "GET /books/author/1 HTTP/1.1" 200 -
